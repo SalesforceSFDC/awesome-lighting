@@ -8,7 +8,7 @@ A curated list of delightful Salesforce Lightning Resources
 
 > Useful resources for creating apps with [Salesforce](http://login.salesforce.com)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
+* Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
 
 
 ## What is Awesome Lightning ? 
@@ -31,7 +31,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Basics of Lightning components by Jitendra Zaa](http://www.jitendrazaa.com/blog/salesforce/getting-started-with-basics-of-lightning-component/)
   
 
-####Lightning Components Tutorials by MVP/Authors
+#### Lightning Components Tutorials by MVP/Authors
   * [Building lightning components in Spring 15 by Jeff Doughlas](https://resources.docs.salesforce.com/sfdc/pdf/lightning.pdf)
   * [Video tutorials for Lightning Components by Paul Battisson](http://paulbattisson.com/blog/)
   * [Basics of Lightning components by Jitendra Zaa](http://www.jitendrazaa.com/blog/salesforce/getting-started-with-basics-of-lightning-component/)
